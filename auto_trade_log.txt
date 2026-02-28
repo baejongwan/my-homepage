@@ -1,0 +1,391 @@
+[18:56:35] [INFO] ======================================================================
+[18:56:35] [INFO] LUMI MASTER PRO - FULLY AUTOMATED BOT v2.0
+[18:56:35] [INFO] ======================================================================
+[18:56:35] [INFO] Symbol: ETH/USDT
+[18:56:35] [INFO] Mode: LIVE
+[18:56:35] [INFO] Monitoring: 5-second TP/SL checks
+[18:56:35] [INFO] Analysis: Every 5 min to Lumi
+[18:56:35] [INFO] ======================================================================
+[18:56:35] [ANALYSIS] Running 5-minute analysis...
+[18:56:37] [INFO] No entry. Long: 1/5, Short: 1/5
+[18:57:32] [INFO] No position - Scanning for entry...
+[18:58:32] [INFO] No position - Scanning for entry...
+[18:59:32] [INFO] No position - Scanning for entry...
+[19:00:32] [INFO] No position - Scanning for entry...
+[19:01:32] [INFO] No position - Scanning for entry...
+[19:01:37] [ANALYSIS] Running 5-minute analysis...
+[19:01:37] [INFO] No entry. Long: 2/5, Short: 1/5
+[19:02:32] [INFO] No position - Scanning for entry...
+[19:03:32] [INFO] No position - Scanning for entry...
+[19:04:32] [INFO] No position - Scanning for entry...
+[19:05:32] [INFO] No position - Scanning for entry...
+[19:06:32] [INFO] No position - Scanning for entry...
+[19:06:37] [ANALYSIS] Running 5-minute analysis...
+[19:06:37] [INFO] No entry. Long: 1/5, Short: 2/5
+[19:07:32] [INFO] No position - Scanning for entry...
+[19:08:32] [INFO] No position - Scanning for entry...
+[19:09:32] [INFO] No position - Scanning for entry...
+[19:10:32] [INFO] No position - Scanning for entry...
+[19:10:55] [INFO] ======================================================================
+[19:10:55] [INFO] LUMI MASTER PRO - FULLY AUTOMATED BOT v2.0
+[19:10:55] [INFO] ======================================================================
+[19:10:55] [INFO] Symbol: ETH/USDT
+[19:10:55] [INFO] Mode: LIVE
+[19:10:55] [INFO] Monitoring: 5-second TP/SL checks
+[19:10:55] [INFO] Analysis: Every 5 min to Lumi
+[19:10:55] [INFO] ======================================================================
+[19:10:56] [ANALYSIS] Running 5-minute analysis...
+[19:10:58] [INFO] No entry. Long: 2/5, Short: 1/5
+[19:11:54] [INFO] No position - Scanning for entry...
+[19:12:54] [INFO] No position - Scanning for entry...
+[19:13:54] [INFO] No position - Scanning for entry...
+[19:14:54] [INFO] No position - Scanning for entry...
+[19:16:11] [INFO] ======================================================================
+[19:16:11] [INFO] 루미 마스터 프로 - 완전 자동화 봇 v2.0
+[19:16:11] [INFO] ======================================================================
+[19:16:11] [INFO] 심볼: ETH/USDT
+[19:16:11] [INFO] 모드: 실거래
+[19:16:11] [INFO] 모니터링: 5초 TP/SL 체크
+[19:16:11] [INFO] 분석: 5분마다 루미 알림
+[19:16:11] [INFO] ======================================================================
+[19:16:12] [ANALYSIS] 5분 분석 실행 중...
+[19:16:14] [SIGNAL] 진입 신호: LONG | 점수: 3/5
+[19:16:14] [ENTRY] 진입 실행 | 방향: LONG | 가격: $1971.29 | 손절: $1967.30 | 익절: $1979.28
+[19:16:16] [SUCCESS] 진입 완료: LONG @ $1971.10
+[19:17:12] [INFO] 포지션: LONG | 수익률: -0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:18:13] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.30 | 익절: $1979.28
+[19:19:13] [INFO] 포지션: LONG | 수익률: -0.01% | 손절: $1967.30 | 익절: $1979.28
+[19:20:14] [INFO] 포지션: LONG | 수익률: -0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:21:14] [ANALYSIS] 5분 분석 실행 중...
+[19:21:15] [INFO] 포지션: LONG | 수익률: -0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:22:15] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:23:16] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:24:16] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:25:17] [INFO] 포지션: LONG | 수익률: -0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:26:18] [ANALYSIS] 5분 분석 실행 중...
+[19:26:19] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:27:19] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:28:20] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.30 | 익절: $1979.28
+[19:29:21] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.30 | 익절: $1979.28
+[19:30:22] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.30 | 익절: $1979.28
+[19:30:57] [INFO] ======================================================================
+[19:30:57] [INFO] 루미 마스터 프로 - 완전 자동화 봇 v2.0
+[19:30:57] [INFO] ======================================================================
+[19:30:57] [INFO] 심볼: ETH/USDT
+[19:30:57] [INFO] 모드: 실거래
+[19:30:57] [INFO] 모니터링: 5초 TP/SL 체크
+[19:30:57] [INFO] 분석: 5분마다 루미 알림
+[19:30:57] [INFO] ======================================================================
+[19:30:58] [ANALYSIS] 5분 분석 실행 중...
+[19:31:00] [INFO] 진입 없음. 롱: 2/5, 숏: 1/5
+[19:31:56] [INFO] 이제 ETH/USDT 감시 중...
+[19:32:56] [INFO] 이제 ETH/USDT 감시 중...
+[19:33:56] [INFO] 이제 ETH/USDT 감시 중...
+[19:34:41] [INFO] ======================================================================
+[19:34:41] [INFO] 루미 마스터 프로 - 완전 자동화 봇 v2.0
+[19:34:41] [INFO] ======================================================================
+[19:34:41] [INFO] 심볼: ETH/USDT
+[19:34:41] [INFO] 모드: 실거래
+[19:34:41] [INFO] 모니터링: 5초 TP/SL 체크
+[19:34:41] [INFO] 분석: 5분마다 루미 알림
+[19:34:41] [INFO] ======================================================================
+[19:34:41] [INFO] 기존 포지션 확인 중...
+[19:34:44] [INFO] 기존 LONG 포지션 확인: 진입가 $1971.10
+[19:34:45] [ANALYSIS] 5분 분석 실행 중...
+[19:35:42] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:36:42] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:37:43] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:38:44] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:39:44] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:39:49] [ANALYSIS] 5분 분석 실행 중...
+[19:40:46] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:41:46] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:42:47] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:43:48] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:44:48] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:44:53] [ANALYSIS] 5분 분석 실행 중...
+[19:45:50] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:46:51] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:47:51] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:48:52] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:49:52] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:49:57] [ANALYSIS] 5분 분석 실행 중...
+[19:50:54] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:51:55] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:52:55] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:53:56] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:54:57] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:55:02] [ANALYSIS] 5분 분석 실행 중...
+[19:55:58] [INFO] 포지션: LONG | 수익률: +0.00% | 손절: $1967.56 | 익절: $1978.18
+[19:56:59] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:58:00] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[19:59:00] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:00:01] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:00:06] [ANALYSIS] 5분 분석 실행 중...
+[20:01:03] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:02:03] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:03:04] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:04:05] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:05:05] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:05:10] [ANALYSIS] 5분 분석 실행 중...
+[20:06:07] [INFO] 포지션: LONG | 수익률: +0.01% | 손절: $1967.56 | 익절: $1978.18
+[20:07:08] [INFO] 포지션: LONG | 수익률: +0.02% | 손절: $1967.56 | 익절: $1978.18
+[20:08:08] [INFO] 포지션: LONG | 수익률: +0.02% | 손절: $1967.56 | 익절: $1978.18
+======================================================================
+루미 마스터 프로 v2.1 - 정밀 트레이딩
+======================================================================
+기능: 지정가 + 1초 모니터링 + 수수료 계산
+======================================================================
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.03 | 순수익: 1.79 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.13 | 순수익: 1.81 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.13 | 순수익: 1.81 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.13 | 순수익: 1.81 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.26 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.62 | 순수익: 1.93 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.39 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.39 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.39 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.37 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.37 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.37 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.33 | 순수익: 1.86 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.70 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.70 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.70 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.70 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.79 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.70 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.79 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.79 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.78 | 순수익: 1.96 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.74 | 순수익: 1.96 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.74 | 순수익: 1.96 | 이유: 0.5% 수익 - 25% 부분청산
+청산: PARTIAL | 가격: $1979.74 | 순수익: 1.96 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.74 | 순수익: 1.96 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.80 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.80 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.80 | 순수익: 1.97 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.62 | 순수익: 1.93 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.51 | 순수익: 1.90 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.51 | 순수익: 1.90 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.14 | 순수익: 1.82 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.51 | 순수익: 1.90 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.14 | 순수익: 1.82 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.54 | 순수익: 1.91 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.53 | 순수익: 1.91 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.38 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.53 | 순수익: 1.91 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.53 | 순수익: 1.91 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.38 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.38 | 순수익: 1.87 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.40 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.40 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.40 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.59 | 순수익: 1.92 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.59 | 순수익: 1.92 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.59 | 순수익: 1.92 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.34 | 순수익: 1.86 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.34 | 순수익: 1.86 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.02 | 순수익: 1.79 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.34 | 순수익: 1.86 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.02 | 순수익: 1.79 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.02 | 순수익: 1.79 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.51 | 순수익: 1.90 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.02 | 순수익: 1.79 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.51 | 순수익: 1.90 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.41 | 순수익: 1.88 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.30 | 순수익: 1.85 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.23 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.30 | 순수익: 1.85 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.32 | 순수익: 1.86 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.23 | 순수익: 1.84 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.46 | 순수익: 1.89 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.45 | 순수익: 1.89 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.67 | 순수익: 1.94 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.67 | 순수익: 1.94 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.94 | 순수익: 2.00 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.94 | 순수익: 2.00 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.94 | 순수익: 2.00 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.94 | 순수익: 2.00 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.88 | 순수익: 1.99 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.64 | 순수익: 1.93 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.64 | 순수익: 1.93 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.68 | 순수익: 1.94 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.68 | 순수익: 1.94 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1979.71 | 순수익: 1.95 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: TP | 가격: $1980.04 | 순수익: 2.02 | 이유: 목표가 도달
+지정가 진입 시도: LONG @ $1985.88
+지정가 체결: $1985.88
+청산: PARTIAL | 가격: $1986.92 | 순수익: 0.14 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1986.92 | 순수익: 0.14 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.43 | 순수익: 0.22 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1986.92 | 순수익: 0.14 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.87 | 순수익: 0.29 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.87 | 순수익: 0.29 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.87 | 순수익: 0.29 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.87 | 순수익: 0.29 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.54 | 순수익: 0.24 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.01 | 순수익: 0.15 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.54 | 순수익: 0.24 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.33 | 순수익: 0.20 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.34 | 순수익: 0.21 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.34 | 순수익: 0.21 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.34 | 순수익: 0.21 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.52 | 순수익: 0.23 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.52 | 순수익: 0.23 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.52 | 순수익: 0.23 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.52 | 순수익: 0.23 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.77 | 순수익: 0.27 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.69 | 순수익: 0.26 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.77 | 순수익: 0.27 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.70 | 순수익: 0.26 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.70 | 순수익: 0.26 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.32 | 순수익: 0.20 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.67 | 순수익: 0.26 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.32 | 순수익: 0.20 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.33 | 순수익: 0.20 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.33 | 순수익: 0.20 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.02 | 순수익: 0.16 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: PARTIAL | 가격: $1987.02 | 순수익: 0.16 | 이유: 0.5% 수익 - 25% 부분청산
+청산 오류: binance {"code":-4164,"msg":"Order's notional must be no smaller than 20 (unless you choose reduce only)."}
+청산: TRAILING_SL | 가격: $1986.03 | 순수익: 0.00 | 이유: 트레일링 손절: 최고 1.00%에서 0.08%로 하�
